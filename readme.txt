@@ -1,0 +1,1 @@
+Multithreaded Client<-->Server Vote Application in Qt C++
